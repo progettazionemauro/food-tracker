@@ -51,6 +51,7 @@ venv\scripts\activate
 ```
 
 ### 3. Install required dependencies
+## Spiegazione Installazione https://www.youtube.com/watch?v=iE0crk1klAY
 
 From the **root** directory run:
 
